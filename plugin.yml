@@ -1,0 +1,8 @@
+name: WhereAreMySlimes
+main: net.lluiscab.slimes.WhereAreMySlimes
+version: 1.0
+description: Find slime chunks
+commands:
+  slime-finder:
+    description: Find slime chunks
+    usage: /slime-finder
